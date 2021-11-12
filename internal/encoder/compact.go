@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"unsafe"
 
-	"github.com/bingoohuang/go-json/internal/errors"
+	"github.com/bingoohuang/json/internal/errors"
 )
 
 var (

@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/bingoohuang/go-json"
+	"github.com/bingoohuang/json"
 )
 
 func TestCoverFloat64(t *testing.T) {

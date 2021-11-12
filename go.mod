@@ -1,4 +1,4 @@
-module github.com/bingoohuang/go-json
+module github.com/bingoohuang/json
 
 go 1.12
 

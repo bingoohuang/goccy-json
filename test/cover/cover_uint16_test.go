@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/bingoohuang/go-json"
+	"github.com/bingoohuang/json"
 )
 
 func TestCoverUint16(t *testing.T) {

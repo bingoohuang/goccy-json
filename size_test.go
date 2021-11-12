@@ -4,7 +4,7 @@ import (
 	"testing"
 	"unsafe"
 
-	"github.com/bingoohuang/go-json/internal/encoder"
+	"github.com/bingoohuang/json/internal/encoder"
 )
 
 func TestOpcodeSize(t *testing.T) {

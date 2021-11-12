@@ -12,7 +12,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/bingoohuang/go-json"
+	"github.com/bingoohuang/json"
 )
 
 func ExampleMarshal() {

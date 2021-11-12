@@ -22,7 +22,7 @@ import (
 
 	stdjson "encoding/json"
 
-	"github.com/bingoohuang/go-json"
+	"github.com/bingoohuang/json"
 	jsoniter "github.com/json-iterator/go"
 	segmentiojson "github.com/segmentio/encoding/json"
 	"github.com/wI2L/jettison"

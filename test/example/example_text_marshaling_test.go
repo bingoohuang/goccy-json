@@ -9,7 +9,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/bingoohuang/go-json"
+	"github.com/bingoohuang/json"
 )
 
 type Size int

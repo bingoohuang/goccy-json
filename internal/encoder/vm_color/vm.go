@@ -6,8 +6,8 @@ import (
 	"sort"
 	"unsafe"
 
-	"github.com/bingoohuang/go-json/internal/encoder"
-	"github.com/bingoohuang/go-json/internal/runtime"
+	"github.com/bingoohuang/json/internal/encoder"
+	"github.com/bingoohuang/json/internal/runtime"
 )
 
 func Run(ctx *encoder.RuntimeContext, b []byte, codeSet *encoder.OpcodeSet) ([]byte, error) {

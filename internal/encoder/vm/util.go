@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"unsafe"
 
-	"github.com/bingoohuang/go-json/internal/encoder"
-	"github.com/bingoohuang/go-json/internal/runtime"
+	"github.com/bingoohuang/json/internal/encoder"
+	"github.com/bingoohuang/json/internal/runtime"
 )
 
 const uintptrSize = 4 << (^uintptr(0) >> 63)

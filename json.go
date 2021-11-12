@@ -5,7 +5,7 @@ import (
 	"context"
 	"encoding/json"
 
-	"github.com/bingoohuang/go-json/internal/encoder"
+	"github.com/bingoohuang/json/internal/encoder"
 )
 
 // Marshaler is the interface implemented by types that

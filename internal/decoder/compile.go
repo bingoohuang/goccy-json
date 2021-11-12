@@ -9,8 +9,8 @@ import (
 	"unicode"
 	"unsafe"
 
-	"github.com/bingoohuang/go-json/internal/errors"
-	"github.com/bingoohuang/go-json/internal/runtime"
+	"github.com/bingoohuang/json/internal/errors"
+	"github.com/bingoohuang/json/internal/runtime"
 )
 
 var (

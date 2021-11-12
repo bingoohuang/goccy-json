@@ -15,7 +15,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/bingoohuang/go-json"
+	"github.com/bingoohuang/json"
 )
 
 type recursiveT struct {

@@ -3,7 +3,7 @@ package decoder
 import (
 	"unsafe"
 
-	"github.com/bingoohuang/go-json/internal/runtime"
+	"github.com/bingoohuang/json/internal/runtime"
 )
 
 type ptrDecoder struct {

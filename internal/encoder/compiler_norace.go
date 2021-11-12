@@ -6,7 +6,7 @@ package encoder
 import (
 	"unsafe"
 
-	"github.com/bingoohuang/go-json/internal/runtime"
+	"github.com/bingoohuang/json/internal/runtime"
 )
 
 func CompileToGetCodeSet(typeptr uintptr) (*OpcodeSet, error) {

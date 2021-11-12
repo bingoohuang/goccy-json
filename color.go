@@ -3,7 +3,7 @@ package json
 import (
 	"fmt"
 
-	"github.com/bingoohuang/go-json/internal/encoder"
+	"github.com/bingoohuang/json/internal/encoder"
 )
 
 type (

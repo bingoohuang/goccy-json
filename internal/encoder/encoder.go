@@ -14,8 +14,8 @@ import (
 
 	"github.com/cristalhq/base64"
 
-	"github.com/bingoohuang/go-json/internal/errors"
-	"github.com/bingoohuang/go-json/internal/runtime"
+	"github.com/bingoohuang/json/internal/errors"
+	"github.com/bingoohuang/json/internal/runtime"
 )
 
 func (t OpType) IsMultipleOpHead() bool {

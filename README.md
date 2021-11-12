@@ -51,7 +51,7 @@ Replace import statement from `encoding/json` to `github.com/bingoohuang/go-json
 
 ```
 -import "encoding/json"
-+import "github.com/bingoohuang/go-json"
++import "github.com/bingoohuang/json"
 ```
 
 # JSON library comparison

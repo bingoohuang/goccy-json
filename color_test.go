@@ -3,7 +3,7 @@ package json_test
 import (
 	"testing"
 
-	"github.com/bingoohuang/go-json"
+	"github.com/bingoohuang/json"
 )
 
 func TestColorize(t *testing.T) {

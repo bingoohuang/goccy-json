@@ -5,11 +5,11 @@ import (
 	"io"
 	"unsafe"
 
-	"github.com/bingoohuang/go-json/internal/encoder"
-	"github.com/bingoohuang/go-json/internal/encoder/vm"
-	"github.com/bingoohuang/go-json/internal/encoder/vm_color"
-	"github.com/bingoohuang/go-json/internal/encoder/vm_color_indent"
-	"github.com/bingoohuang/go-json/internal/encoder/vm_indent"
+	"github.com/bingoohuang/json/internal/encoder"
+	"github.com/bingoohuang/json/internal/encoder/vm"
+	"github.com/bingoohuang/json/internal/encoder/vm_color"
+	"github.com/bingoohuang/json/internal/encoder/vm_color_indent"
+	"github.com/bingoohuang/json/internal/encoder/vm_indent"
 )
 
 // An Encoder writes JSON values to an output stream.
